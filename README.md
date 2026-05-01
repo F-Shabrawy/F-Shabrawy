@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Farida El-Shabrawy
 
 🎓 Data Science Student @ Ain Shams University  
-💡 Passionate about Machine Learning and AI Systems
+
+💡 Passionate about Machine Learning and AI Systems 
+
 📍 Cairo, Egypt  
 
 ---
